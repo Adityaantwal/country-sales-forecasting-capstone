@@ -1,0 +1,14 @@
+{
+  "dataset_note": "Synthetic demonstration data; not official business data.",
+  "holdout": "2024-01 through 2024-12 per country",
+  "rows_train": 432,
+  "rows_test": 72,
+  "random_forest": {
+    "MAE": 10.613,
+    "RMSE": 13.2232
+  },
+  "seasonal_naive_baseline": {
+    "MAE": 12.7733,
+    "RMSE": 16.2388
+  }
+}
